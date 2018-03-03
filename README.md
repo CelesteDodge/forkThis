@@ -1,25 +1,26 @@
-# forThis
+# forkThis
 
-## Repo for Practice
+## Practice Repo
 
 ### Author: Celeste Dodge
 
 ### Description
 
-#Forked from codebaseacademy and md updated README
+Forked from codebaseacademy and updated README.md in Visual Studio Code
 
 ## Languages used
 
-#Git Bash comand line
+Git Bash comand line
+Markdown
 
 ### Known Bugs
 
-#none 
+none 
 
 ## License
 
-#This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-# Hat tip to codebaseacademy, udemy
+Hat tip to codebaseacademy, udemy
