@@ -1,28 +1,25 @@
-# Project Title
+# forThis
 
-## Forkthis Repo for Practice
+## Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### Author: Celeste Dodge
 
 ### Description
 
-Create a description and fill it in here.
+#Forked from codebaseacademy and md updated README
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+#Git Bash comand line
 
 ### Known Bugs
 
-Are there any? If so what are they?
+#none 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+#This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+# Hat tip to codebaseacademy, udemy
